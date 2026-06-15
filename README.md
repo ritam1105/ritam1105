@@ -97,13 +97,11 @@ Electronics and Communication Engineering student with a strong interest in back
 
 ## GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=ritam1105\&theme=dark\&hide_border=false\&include_all_commits=true\&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ritam1105&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 
-![](https://nirzak-streak-stats.vercel.app/?user=ritam1105\&theme=dark\&hide_border=false)
+![GitHub Streak](https://streak-stats.demolab.com?user=ritam1105&theme=dark&hide_border=false)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ritam1105\&theme=dark\&hide_border=false\&layout=compact)
-
----
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ritam1105&theme=dark&hide_border=false&layout=compact)
 
 ## Profile Views
 
